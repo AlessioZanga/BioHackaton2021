@@ -1,4 +1,4 @@
-,Name,Sym,Class,Polarity,Charge,Hydropathy,HelixProb,SheetProb,ResidueWeight,pKa1,pKb2,pKx3,pl4
+Abbr.,Name,Sym,Class,Polarity,Charge,Hydropathy,HelixProb,SheetProb,ResidueWeight,pKa1,pKb2,pKx3,pl4
 Ala,Alanine,A,Aliphatic,Nonpolar,Neutral,1.8,0.42,0.23,71.08,2.34,9.69,0.0,6.0
 Arg,Arginine,R,Basic,Basic polar,Positive,-4.5,0.36,0.25,156.19,2.17,9.04,12.48,10.76
 Asn,Asparagine,N,Amide,Polar,Neutral,-3.5,0.21,0.22,114.11,2.02,8.8,0.0,5.41
