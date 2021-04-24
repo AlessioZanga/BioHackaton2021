@@ -1,23 +1,23 @@
-Abbr.,Name,Sym,Class,Polarity,Charge,Hydropathy,HelixProb,SheetProb,ResidueWeight,pKa1,pKb2,pKx3,pl4
-Ala,Alanine,A,Aliphatic,Nonpolar,Neutral,1.8,0.42,0.23,71.08,2.34,9.69,0.0,6.0
-Arg,Arginine,R,Basic,Basic polar,Positive,-4.5,0.36,0.25,156.19,2.17,9.04,12.48,10.76
-Asn,Asparagine,N,Amide,Polar,Neutral,-3.5,0.21,0.22,114.11,2.02,8.8,0.0,5.41
-Asp,Aspartic acid,D,Acid,Acidic polar,Negative,-3.5,0.25,0.2,115.09,1.88,9.6,3.65,2.77
-Cys,Cysteine,C,Sulfuric,Nonpolar,Neutral,2.5,0.17,0.41,103.15,1.96,10.28,8.18,5.07
-Glu,Glutamic acid,E,Acid,Acidic polar,Negative,-3.5,0.42,0.21,129.12,2.19,9.67,4.25,3.22
-Gln,Glutamine,Q,Amide,Polar,Neutral,-3.5,0.36,0.25,128.13,2.17,9.13,0.0,5.65
-Gly,Glycine,G,Aliphatic,Nonpolar,Neutral,-0.4,0.13,0.15,57.05,2.34,9.6,0.0,5.97
-His,Histidine,H,Basic aromatic,Basic polar,Positive,-3.2,0.27,0.3,137.14,1.82,9.17,6.0,7.59
-Hyp,Hydroxyproline,O,,,,0.0,,,113.11,1.82,9.65,0.0,0.0
-Ile,Isoleucine,I,Aliphatic,Nonpolar,Neutral,4.5,0.3,0.45,113.16,2.36,9.6,0.0,6.02
-Leu,Leucine,L,Aliphatic,Nonpolar,Neutral,3.8,0.39,0.31,113.16,2.36,9.6,0.0,5.98
-Lys,Lysine,K,Basic,Basic polar,Positive,-3.9,0.32,0.27,128.18,2.18,8.95,10.53,9.74
-Met,Methionine,M,Sulfuric,Nonpolar,Neutral,1.9,0.38,0.32,131.2,2.28,9.21,0.0,5.74
-Phe,Phenylalanine,F,Aromatic,Nonpolar,Neutral,2.8,0.3,0.38,147.18,1.83,9.13,0.0,5.48
-Pro,Proline,P,Cyclic,Nonpolar,Neutral,-1.6,0.13,0.34,97.12,1.99,10.6,0.0,6.3
-Glp,Pyroglutamatic,U,,,,0.0,,,121.09,0.0,0.0,0.0,5.68
-Ser,Serine,S,Hydroxylic,Polar,Neutral,-0.8,0.2,0.28,87.08,2.21,9.15,0.0,5.68
-Thr,Threonine,T,Hydroxylic,Polar,Neutral,-0.7,0.21,0.36,101.11,2.09,9.1,0.0,5.6
-Trp,Tryptophan,W,Aromatic,Nonpolar,Neutral,-0.9,0.32,0.42,186.22,2.83,9.39,0.0,5.89
-Tyr,Tyrosine,Y,Aromatic,Polar,Neutral,-1.3,0.25,0.41,163.18,2.2,9.11,10.07,5.66
-Val,Valine,V,Aliphatic,Nonpolar,Neutral,4.2,0.27,0.49,99.13,2.32,9.62,0.0,5.96
+Abbr.,Name,Sym,Class,Polarity,Charge,Hydropathy,HelixProb,SheetProb,ResidueWeight,pKa1,pKb2,pKx3,pl4,DeltaG,DeltaDeltaG,ChouParam,ZiggBraggParam
+Ala,Alanine,A,Aliphatic,Nonpolar,Neutral,1.8,0.42,0.23,71.08,2.34,9.69,0.0,6.0,13.4,0.77,1.8,1.07
+Arg,Arginine,R,Basic,Basic polar,Positive,-4.5,0.36,0.25,156.19,2.17,9.04,12.48,10.76,13.3,0.68,1.3,1.03
+Asn,Asparagine,N,Amide,Polar,Neutral,-3.5,0.21,0.22,114.11,2.02,8.8,0.0,5.41,12.0,0.07,0.9,0.78
+Asp,Aspartic acid,D,Acid,Acidic polar,Negative,-3.5,0.25,0.2,115.09,1.88,9.6,3.65,2.77,11.7,0.15,1.0,0.68
+Cys,Cysteine,C,Sulfuric,Nonpolar,Neutral,2.5,0.17,0.41,103.15,1.96,10.28,8.18,5.07,11.6,0.23,0.7,0.99
+Glu,Glutamic acid,E,Acid,Acidic polar,Negative,-3.5,0.42,0.21,129.12,2.19,9.67,4.25,3.22,12.2,0.27,0.8,0.97
+Gln,Glutamine,Q,Amide,Polar,Neutral,-3.5,0.36,0.25,128.13,2.17,9.13,0.0,5.65,12.8,0.33,1.3,0.98
+Gly,Glycine,G,Aliphatic,Nonpolar,Neutral,-0.4,0.13,0.15,57.05,2.34,9.6,0.0,5.97,11.3,0.0,0.5,0.59
+His,Histidine,H,Basic aromatic,Basic polar,Positive,-3.2,0.27,0.3,137.14,1.82,9.17,6.0,7.59,11.6,0.06,1.0,0.69
+Hyp,Hydroxyproline,O,,,,0.0,,,113.11,1.82,9.65,0.0,0.0,,,,
+Ile,Isoleucine,I,Aliphatic,Nonpolar,Neutral,4.5,0.3,0.45,113.16,2.36,9.6,0.0,6.02,12.0,0.23,1.2,1.14
+Leu,Leucine,L,Aliphatic,Nonpolar,Neutral,3.8,0.39,0.31,113.16,2.36,9.6,0.0,5.98,13.0,0.62,1.2,1.14
+Lys,Lysine,K,Basic,Basic polar,Positive,-3.9,0.32,0.27,128.18,2.18,8.95,10.53,9.74,13.0,0.65,1.1,0.94
+Met,Methionine,M,Sulfuric,Nonpolar,Neutral,1.9,0.38,0.32,131.2,2.28,9.21,0.0,5.74,12.8,0.5,1.5,1.2
+Phe,Phenylalanine,F,Aromatic,Nonpolar,Neutral,2.8,0.3,0.38,147.18,1.83,9.13,0.0,5.48,12.1,0.41,1.3,1.09
+Pro,Proline,P,Cyclic,Nonpolar,Neutral,-1.6,0.13,0.34,97.12,1.99,10.6,0.0,6.3,6.5,3.0,0.3,0.19
+Glp,Pyroglutamatic,U,,,,0.0,,,121.09,0.0,0.0,0.0,5.68,,,,
+Ser,Serine,S,Hydroxylic,Polar,Neutral,-0.8,0.2,0.28,87.08,2.21,9.15,0.0,5.68,12.2,0.35,0.6,0.76
+Thr,Threonine,T,Hydroxylic,Polar,Neutral,-0.7,0.21,0.36,101.11,2.09,9.1,0.0,5.6,11.7,0.11,1.0,0.82
+Trp,Tryptophan,W,Aromatic,Nonpolar,Neutral,-0.9,0.32,0.42,186.22,2.83,9.39,0.0,5.89,12.4,0.45,1.5,1.11
+Tyr,Tyrosine,Y,Aromatic,Polar,Neutral,-1.3,0.25,0.41,163.18,2.2,9.11,10.07,5.66,12.1,0.17,0.8,1.02
+Val,Valine,V,Aliphatic,Nonpolar,Neutral,4.2,0.27,0.49,99.13,2.32,9.62,0.0,5.96,11.9,0.14,1.2,0.95
