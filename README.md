@@ -4,7 +4,7 @@ Our team is from Milan (IT) and we think proteins are cool... but also 🐼s are
 ### Project Description
 We worked on the multi-mutant mini-protein challenge and developed a deep-neural model to compute the stability score.
 
-- Clone this repo to your local machine using:
+### Clone this repo to your local machine using:
 ```bash
 git clone https://github.com/AlessioZanga/BioHackaton2021.git
 ```
