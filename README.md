@@ -8,7 +8,7 @@ We worked on the multi-mutant mini-protein challenge and developed a deep-neural
 - [Dataset Exploration](https://nbviewer.jupyter.org/github/AlessioZanga/BioHackaton2021/blob/main/dataset_exploration.ipynb) 
 - [Amino acids properties](https://nbviewer.jupyter.org/github/AlessioZanga/BioHackaton2021/blob/main/aminoacids_properties.ipynb)
 - [Feature Extraction](https://nbviewer.jupyter.org/github/AlessioZanga/BioHackaton2021/blob/main/features_extraction.ipynb)
-- [Preditor](https://nbviewer.jupyter.org/github/AlessioZanga/BioHackaton2021/blob/main/predictor.ipynb)
+- [Predictor](https://nbviewer.jupyter.org/github/AlessioZanga/BioHackaton2021/blob/main/predictor.ipynb)
 - [Evaluation](https://nbviewer.jupyter.org/github/AlessioZanga/BioHackaton2021/blob/main/evaluation.ipynb)
 
 ### Clone this repo to your local machine using
