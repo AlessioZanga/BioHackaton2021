@@ -5,8 +5,8 @@ Our team is from Milan (IT) and we think proteins are cool... but also 🐼s are
 We worked on the multi-mutant mini-protein challenge and developed a deep-neural model to compute the stability score.
 
 #### Project Notebooks 
-- [Dataset Exploration](https://nbviewer.jupyter.org/github/AlessioZanga/BioHackaton2021/blob/main/dataset_exploration.ipynb) 
 - [Amino acids properties](https://nbviewer.jupyter.org/github/AlessioZanga/BioHackaton2021/blob/main/aminoacids_properties.ipynb)
+- [Dataset Exploration](https://nbviewer.jupyter.org/github/AlessioZanga/BioHackaton2021/blob/main/dataset_exploration.ipynb) 
 - [Feature Extraction](https://nbviewer.jupyter.org/github/AlessioZanga/BioHackaton2021/blob/main/features_extraction.ipynb)
 - [Predictor](https://nbviewer.jupyter.org/github/AlessioZanga/BioHackaton2021/blob/main/predictor.ipynb)
 - [Evaluation](https://nbviewer.jupyter.org/github/AlessioZanga/BioHackaton2021/blob/main/evaluation.ipynb)
